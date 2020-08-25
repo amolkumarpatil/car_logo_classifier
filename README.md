@@ -17,6 +17,8 @@ Images used for classification are 70 x x 70 mixed bit depth images i.e. single 
 
 Tool classifies a given image by attributing a predicted brand label: 
 
+![classification](https://github.com/amolkumarpatil/car_logo_classifier/blob/master/classification.png?raw=true)
+
 ## Model Matrics
 Classification model logistic regression got below scores:- 
 * Accuracy - 0.95
